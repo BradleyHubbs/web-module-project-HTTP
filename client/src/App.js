@@ -30,7 +30,7 @@ const App = (props) => {
   }
 
   const addToFavorites = (movie) => {
-    
+    const
   }
 
   return (
